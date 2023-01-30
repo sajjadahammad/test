@@ -1,4 +1,4 @@
-Step 1 : To install the deendencied :-
+Step 1 : To install the dependencies :-
 
 yarn
 
