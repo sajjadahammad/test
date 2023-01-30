@@ -1,0 +1,53 @@
+body {
+    background-color: #ecf0f3;
+    font-family: 'Montserrat',sans-serif;
+}
+
+.login {
+    display: flex;
+    justify-content: center;
+   
+}
+
+.container {
+    width: 330px;
+    height: 400px;
+    padding: 20px 25px 30px 25px;
+    background: white;
+    text-align: left;
+    margin-top: 100px;
+}
+
+.check {
+    height: 15px;
+    box-sizing: unset;
+    width: auto;
+    float: left;
+}   
+
+.label {
+    margin-left: 10px;
+}
+
+input{
+    height: 2rem;
+    width: 19rem;
+}
+
+label{
+    font-size: small;
+    font-weight: 500;
+}
+
+button {
+    margin-top: 2rem;
+    width: 20rem;
+    height: 35px;
+    border: none;
+    background-color: #FFEA20;
+}
+
+a{
+    display: inline-block;
+    margin-top: 1rem;
+}
